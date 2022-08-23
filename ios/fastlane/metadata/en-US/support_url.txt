@@ -1,1 +1,1 @@
-https://app.crowdbotics.com/dashboard/user/support
+https://crowdbotics.atlassian.net/jira/software/projects/PLAT/boards/32?label=services%2Ccatalog

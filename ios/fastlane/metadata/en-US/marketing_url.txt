@@ -1,0 +1,1 @@
+https://crowdbotics-slack-dev.herokuapp.com/dashboard/app/28933/settings
